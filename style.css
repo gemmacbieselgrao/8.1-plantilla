@@ -1,0 +1,63 @@
+.escudo{
+    float: right;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+.plantilla{
+    background-color: black;
+    color: rgb(201, 201, 21);
+    text-align: center;
+    font-size: 45px;
+ font-family: Arial, Helvetica, sans-serif
+}
+.uno{
+    background-color: rgb(255, 103, 31);
+    width: 120px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.dos{
+
+        background-color: rgb(255, 103, 31);
+        width: 130px;
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        font-weight: bold;
+}
+.tres{
+        background-color: rgb(255, 103, 31);
+        width: 210px;
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        text-align: center;
+}
+.cuatro{
+        background-color: rgb(255, 103, 31);
+        width: 140px;
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        text-align: center;
+}
+div.portero1{
+   float: left;
+}
+div.defensa1{
+    float: left;
+}
+div.centrocampista{
+    float: left;
+}
+div.delantero{
+    float: left;
+}
+.address{
+  float:  right;
+}
+.hr{
+    border-style: dotted;
+}
